@@ -27,5 +27,6 @@ public class ArrayListTest {
 		String srtPos1 = arrayList.get(1);
 		Assert.assertEquals(str2, srtPos1);
 		
+		//cambios
 	}
 }
